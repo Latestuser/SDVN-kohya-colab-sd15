@@ -35,4 +35,3 @@ xformers==0.0.22.post7
 .
 jax==0.4.20
 jaxlib==0.4.20
-flax==0.7.5
